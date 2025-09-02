@@ -1,0 +1,8 @@
+D:\SOA\GlobalBooks\05-shipping-service\src\main\java\com\globalbooks\shipping\ShippingApplication.java
+D:\SOA\GlobalBooks\05-shipping-service\src\main\java\com\globalbooks\shipping\service\ShippingService.java
+D:\SOA\GlobalBooks\05-shipping-service\src\main\java\com\globalbooks\shipping\config\RabbitMQConfig.java
+D:\SOA\GlobalBooks\05-shipping-service\src\main\java\com\globalbooks\shipping\model\Shipping.java
+D:\SOA\GlobalBooks\05-shipping-service\src\main\java\com\globalbooks\shipping\controller\ShippingController.java
+D:\SOA\GlobalBooks\05-shipping-service\src\main\java\com\globalbooks\shipping\repository\ShippingRepository.java
+D:\SOA\GlobalBooks\05-shipping-service\src\main\java\com\globalbooks\shipping\consumer\ShippingEventConsumer.java
+D:\SOA\GlobalBooks\05-shipping-service\src\main\java\com\globalbooks\shipping\model\ShippingStatus.java

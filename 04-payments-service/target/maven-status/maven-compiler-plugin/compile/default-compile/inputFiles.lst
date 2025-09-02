@@ -1,0 +1,8 @@
+D:\SOA\GlobalBooks\04-payments-service\src\main\java\com\globalbooks\payments\config\RabbitMQConfig.java
+D:\SOA\GlobalBooks\04-payments-service\src\main\java\com\globalbooks\payments\controller\PaymentController.java
+D:\SOA\GlobalBooks\04-payments-service\src\main\java\com\globalbooks\payments\repository\PaymentRepository.java
+D:\SOA\GlobalBooks\04-payments-service\src\main\java\com\globalbooks\payments\model\Payment.java
+D:\SOA\GlobalBooks\04-payments-service\src\main\java\com\globalbooks\payments\PaymentsApplication.java
+D:\SOA\GlobalBooks\04-payments-service\src\main\java\com\globalbooks\payments\service\PaymentService.java
+D:\SOA\GlobalBooks\04-payments-service\src\main\java\com\globalbooks\payments\model\PaymentStatus.java
+D:\SOA\GlobalBooks\04-payments-service\src\main\java\com\globalbooks\payments\consumer\PaymentEventConsumer.java

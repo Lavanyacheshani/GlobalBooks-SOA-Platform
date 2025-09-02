@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uddi xmlns="urn:uddi-org:api_v3">
+    <businessEntity businessKey="uddi:globalbooks.com:business">
+        <name>GlobalBooks Inc.</name>
+        <description>Book Catalog and Order Management Services</description>
+        <businessServices>
+            <businessService serviceKey="uddi:globalbooks.com:catalogservice" businessKey="uddi:globalbooks.com:business">
+                <name>Catalog Service</name>
+                <description>SOAP Web Service for Book Catalog Management</description>
+                <bindingTemplates>
+                    <bindingTemplate bindingKey="uddi:globalbooks.com:catalogservice:binding" serviceKey="uddi:globalbooks.com:catalogservice">
+                        <description>SOAP binding for Catalog Service</description>
+                        <accessPoint useType="endpoint">http://localhost:8080/soap/catalog</accessPoint>
+                        <tModelInstanceDetails>
+                            <tModelInstanceInfo tModelKey="uddi:globalbooks.com:catalogservice:wsdl">
+                                <instanceDetails>
+                                    <overviewDoc>
+                                        <overviewURL>http://localhost:8080/soap/catalog?wsdl</overviewURL>
+                                    </overviewDoc>
+                                </instanceDetails>
+                            </tModelInstanceInfo>
+                        </tModelInstanceDetails>
+                    </bindingTemplate>
+                </bindingTemplates>
+                <categoryBag>
+                    <keyedReference 
+                        tModelKey="uddi:uddi.org:categorization:types"
+                        keyName="SOAP"
+                        keyValue="soap"/>
+                </categoryBag>
+            </businessService>
+        </businessServices>
+    </businessEntity>
+</uddi>

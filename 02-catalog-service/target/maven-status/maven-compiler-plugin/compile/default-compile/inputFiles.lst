@@ -1,0 +1,14 @@
+D:\SOA\GlobalBooks\02-catalog-service\src\main\java\com\globalbooks\catalog\GetBookByIdResponse.java
+D:\SOA\GlobalBooks\02-catalog-service\src\main\java\com\globalbooks\catalog\CatalogService.java
+D:\SOA\GlobalBooks\02-catalog-service\src\main\java\com\globalbooks\catalog\SearchBooksRequest.java
+D:\SOA\GlobalBooks\02-catalog-service\src\main\java\com\globalbooks\catalog\GetBookPriceResponse.java
+D:\SOA\GlobalBooks\02-catalog-service\src\main\java\com\globalbooks\catalog\Book.java
+D:\SOA\GlobalBooks\02-catalog-service\src\main\java\com\globalbooks\catalog\CheckAvailabilityRequest.java
+D:\SOA\GlobalBooks\02-catalog-service\src\main\java\com\globalbooks\catalog\CatalogServiceImpl.java
+D:\SOA\GlobalBooks\02-catalog-service\src\main\java\com\globalbooks\catalog\CatalogApplication.java
+D:\SOA\GlobalBooks\02-catalog-service\src\main\java\com\globalbooks\catalog\CatalogEndpoint.java
+D:\SOA\GlobalBooks\02-catalog-service\src\main\java\com\globalbooks\catalog\SearchBooksResponse.java
+D:\SOA\GlobalBooks\02-catalog-service\src\main\java\com\globalbooks\catalog\CheckAvailabilityResponse.java
+D:\SOA\GlobalBooks\02-catalog-service\src\main\java\com\globalbooks\catalog\GetBookByIdRequest.java
+D:\SOA\GlobalBooks\02-catalog-service\src\main\java\com\globalbooks\catalog\GetBookPriceRequest.java
+D:\SOA\GlobalBooks\02-catalog-service\src\main\java\com\globalbooks\catalog\WebServiceConfig.java

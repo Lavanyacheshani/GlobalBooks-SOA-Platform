@@ -1,0 +1,10 @@
+D:\SOA\GlobalBooks\03-orders-service\src\main\java\com\globalbooks\orders\service\OrderService.java
+D:\SOA\GlobalBooks\03-orders-service\src\main\java\com\globalbooks\orders\config\RabbitMQConfig.java
+D:\SOA\GlobalBooks\03-orders-service\src\main\java\com\globalbooks\orders\model\Order.java
+D:\SOA\GlobalBooks\03-orders-service\src\main\java\com\globalbooks\orders\integration\OrderEventProducer.java
+D:\SOA\GlobalBooks\03-orders-service\src\main\java\com\globalbooks\orders\model\OrderItem.java
+D:\SOA\GlobalBooks\03-orders-service\src\main\java\com\globalbooks\orders\controller\OrderController.java
+D:\SOA\GlobalBooks\03-orders-service\src\main\java\com\globalbooks\orders\model\OrderStatus.java
+D:\SOA\GlobalBooks\03-orders-service\src\main\java\com\globalbooks\orders\repository\OrderRepository.java
+D:\SOA\GlobalBooks\03-orders-service\src\main\java\com\globalbooks\orders\OrdersApplication.java
+D:\SOA\GlobalBooks\03-orders-service\src\main\java\com\globalbooks\orders\config\GlobalExceptionHandler.java
