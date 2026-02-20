@@ -246,15 +246,6 @@ docker-compose up -d --build
 
 ---
 
-## License
-
-This project uses the MIT License – see LICENSE file.
-
-```
-
----
-
-If you want, I can **also add a “Step-by-step guide to test using Postman and SOAP UI”** section at the bottom so your README looks fully detailed and professional.  
 
 Do you want me to add that?
 ```
