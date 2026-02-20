@@ -246,6 +246,3 @@ docker-compose up -d --build
 
 ---
 
-
-Do you want me to add that?
-```
